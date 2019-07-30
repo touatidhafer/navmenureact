@@ -1,0 +1,57 @@
+.menu{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 20px;
+    color: black;
+    list-style-type: none;
+    height: 60px;
+    margin: 0;
+    padding: 0;
+}
+.navbar{
+    margin: 0 20%;
+    border-top: 3px solid gray;
+    border-bottom: 3px solid gray;
+}
+.menu-item{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+}
+.hidden{
+    display: none;
+}
+.drope{
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    cursor: pointer;
+    border: 2px solid rgb(197, 193, 193);
+    background-color: white;
+    font-size: 20px;
+    box-sizing: border-box;
+   /* width: 200px;
+    height: 200px;*/
+    list-style-type: none;
+    padding-left:0;
+
+    }
+ .drope .drop-items{
+    padding:10px;
+    color:black;
+      
+ }
+.drope :hover{
+    color: greenyellow;
+    cursor:pointer;
+}
+
+.menu-item:hover{
+    cursor: pointer;
+    color: green;
+    border: solid rgb(39, 184, 70) 2px;
+    background-color: aquamarine;
+    border-radius: 10px;
+
+}
+

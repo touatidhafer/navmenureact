@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/touatidhafer/navmenureact/static/css/main.3d186727.chunk.css",
-    "main.js": "/touatidhafer/navmenureact/static/js/main.47e84aed.chunk.js",
-    "main.js.map": "/touatidhafer/navmenureact/static/js/main.47e84aed.chunk.js.map",
-    "runtime~main.js": "/touatidhafer/navmenureact/static/js/runtime~main.e4631981.js",
-    "runtime~main.js.map": "/touatidhafer/navmenureact/static/js/runtime~main.e4631981.js.map",
-    "static/js/2.65aa1cca.chunk.js": "/touatidhafer/navmenureact/static/js/2.65aa1cca.chunk.js",
-    "static/js/2.65aa1cca.chunk.js.map": "/touatidhafer/navmenureact/static/js/2.65aa1cca.chunk.js.map",
-    "index.html": "/touatidhafer/navmenureact/index.html",
-    "precache-manifest.5aecee212c245e4c87ada090d3003ea0.js": "/touatidhafer/navmenureact/precache-manifest.5aecee212c245e4c87ada090d3003ea0.js",
-    "service-worker.js": "/touatidhafer/navmenureact/service-worker.js",
-    "static/css/main.3d186727.chunk.css.map": "/touatidhafer/navmenureact/static/css/main.3d186727.chunk.css.map"
+    "main.css": "/navmenureact/static/css/main.3d186727.chunk.css",
+    "main.js": "/navmenureact/static/js/main.63781855.chunk.js",
+    "main.js.map": "/navmenureact/static/js/main.63781855.chunk.js.map",
+    "runtime~main.js": "/navmenureact/static/js/runtime~main.e8889014.js",
+    "runtime~main.js.map": "/navmenureact/static/js/runtime~main.e8889014.js.map",
+    "static/js/2.65aa1cca.chunk.js": "/navmenureact/static/js/2.65aa1cca.chunk.js",
+    "static/js/2.65aa1cca.chunk.js.map": "/navmenureact/static/js/2.65aa1cca.chunk.js.map",
+    "index.html": "/navmenureact/index.html",
+    "precache-manifest.d7a11877a1c01cfaa878f538957e59c1.js": "/navmenureact/precache-manifest.d7a11877a1c01cfaa878f538957e59c1.js",
+    "service-worker.js": "/navmenureact/service-worker.js",
+    "static/css/main.3d186727.chunk.css.map": "/navmenureact/static/css/main.3d186727.chunk.css.map"
   }
 }
